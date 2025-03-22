@@ -8,7 +8,7 @@ public class prueba1 {
 		
 		for(int i=0; i<=10; i++) 
 		
-		System.out.println("Hola mundo, prueba ");
+		System.out.println("Hola mundo, prueba r");
 	}
 
 }
